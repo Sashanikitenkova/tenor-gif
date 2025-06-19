@@ -4,7 +4,7 @@ loadBtn.addEventListener('click', function() {
 
     const searchInput = document.getElementById("searchInput");
     const query = searchInput.value.trim();
-    const apiKey = "API_KEY_HERE";
+    const apiKey = "AIzaSyCc1Oe7FiB5xEXZ5oDbenAEVi_1DBTOBdk";
 
     if(!query) return; // if empty we do nothing
 
