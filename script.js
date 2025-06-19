@@ -4,7 +4,7 @@ loadBtn.addEventListener('click', function() {
 
     const searchInput = document.getElementById("searchInput");
     const query = searchInput.value.trim();
-    const apiKey = "AIzaSyA-b8w7UlT98knfUOPob5AT4A-pn5riC2s";
+    const apiKey = "API_KEY_HERE";
 
     if(!query) return; // if empty we do nothing
 
@@ -35,3 +35,18 @@ loadBtn.addEventListener('click', function() {
     }
 
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// AIzaSyA-b8w7UlT98knfUOPob5AT4A-pn5riC2s
